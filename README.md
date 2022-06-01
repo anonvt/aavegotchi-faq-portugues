@@ -14,7 +14,7 @@ A canalização é um processo imediato que extrai alchemica, parte vai direto p
 
 
 ## COMO FAÇO PARA CANALIZAR?  
-Para canalizar você precisa ser _dono do terreno_ ou ter a _permissão do dono_ (dificilmente terá, se não combinar com ele antes). O nível do altar no terreno define o cooldown daquele terreno. O altar gratuito permite 1x a cada 24h.  
+Para canalizar você precisa ser _dono do terreno_ ou ter a _permissão do dono_ do gotchi que alugou, caso ele tenha terrenos (dificilmente terá tal permissão, se não combinar com ele antes). O nível do altar no terreno define o cooldown daquele terreno. O altar gratuito permite 1x a cada 24h.  
 Também precisa de um gotchi, com o _cooldown disponível_, próprio ou alugado (se for alugado, a divisão do contrato também vale pra canalização). Cada gotchi pode canalizar apenas 1x por dia, resetando às 00 UTC (21h horário de Brasília).  
 Para visualizar quais gotchis estão para aluguel com cooldown disponível, veja https://www.aadventure.io/lending/available na coluna 'channeling.'
 
