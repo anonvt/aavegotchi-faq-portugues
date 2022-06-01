@@ -1,7 +1,9 @@
 # __FAQ__ (_para jogadores free_)
 
 ## MEU NOME ESTÁ VERMELHO E NÃO CONSIGO CATAR AS ALCHEMICAS  
-Sua carteira/ip foi banida por suspeita de uso de bot ou quebra de regras, siga o procedimento aqui **por completo, sem pular etapas**: [https://docs.gotchiverse.io/support/discord-verification](https://docs-gotchiverse-io.translate.goog/support/discord-verification?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
+Sua carteira/ip foi banida por suspeita de uso de bot ou quebra de regras, siga o procedimento aqui **por completo, sem pular etapas**: [https://docs.gotchiverse.io/support/discord-verification](https://docs-gotchiverse-io.translate.goog/support/discord-verification?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)  
+Estando no servidor do [aavegotchi no discord](https://discord.gg/aavegotchi), vá no canal [#get-verified](https://discord.com/channels/732491344970383370/756915955774521485) e digite **!join**, siga as intruções que o bot vai te mandar via inbox pra conectar sua metamask e receber os roles necessários.  
+Caso isso falhe, tente desconectar e reconectar o discord na tela do portal, pelo menu da engrenagem.
 
 
 ## COMO FUNCIONA O DROP DAS ALCHEMICAS NO MAPA?  
