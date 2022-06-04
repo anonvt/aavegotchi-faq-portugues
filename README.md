@@ -1,7 +1,7 @@
 # __FAQ__ (_para jogadores free_)
 
 ## MEU NOME ESTÁ VERMELHO E NÃO CONSIGO CATAR AS ALCHEMICAS  
-Sua carteira/ip foi banida por suspeita de uso de bot ou quebra de regras, siga o procedimento aqui **por completo, sem pular etapas**: [https://docs.gotchiverse.io/support/discord-verification](https://docs-gotchiverse-io.translate.goog/support/discord-verification?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)  
+Você precisa verificar a conta com o Discord, siga o procedimento aqui **por completo, sem pular etapas**: [https://docs.gotchiverse.io/support/discord-verification](https://docs-gotchiverse-io.translate.goog/support/discord-verification?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)  
 - Sim você vai precisar mudar sua figura de perfil no Discord  
 - Sim você vai precisar verificar seu e-mail no Discord  
 - Sim você vai precisar configurar TWO-FACTOR AUTHENTICATION no Discord, usando Authy ou Google Authenticator
